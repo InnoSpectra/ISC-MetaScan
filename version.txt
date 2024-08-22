@@ -1,1 +1,15 @@
+1.2.9
+- Support directory paths in multiple languages.
+- Add "Check for Updates" and "Suggestions for Errors" functions to "Help".
+- Report Viewer: Support CTRL/SHIFT key to select multiple files.
+- Data Collection:
+    - Add "Savitzky-Golay" function to re-calculate spectrum.
+    - Support CTRL/SHIFT key to select multiple sample IDs.
+    - Support generating a matrix file from selected sample IDs.
+ - Utility:
+    - Replace "Restore Data from Factory Report" function to "Factory Data Reset" function.
+    - Optimize "Diagnostic Test" function.
+- Other bugs fixed.
+
 1.2.0
+- Initial version.
