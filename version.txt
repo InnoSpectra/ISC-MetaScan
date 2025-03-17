@@ -1,3 +1,12 @@
+1.3.1
+- Distinguish between errors and warnings for the device.
+- Data Collection: Fix an issue where spectra could not be displayed after resampling after selecting all attribute IDs.
+- Utility:
+    - Add Spectrophotometric Noise Test, Wavelength Uncertainty Test and Performance Verification Test functions.
+    - Optimize Diagnostic Test function.
+    - Migrate calibration coefficients read/write functions to device setting page.
+- Other bugs fixed.
+
 1.2.9
 - Support directory paths in multiple languages.
 - Add "Check for Updates" and "Suggestions for Errors" functions to "Help".
