@@ -1,3 +1,7 @@
+2.1.2
+- Update MFG S/N and model mapping.
+- Update STD wavelength calibration config.
+
 2.1.0
 - New multi-scan page is available.
 - Performance verification is available to all models.
